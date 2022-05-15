@@ -1,7 +1,7 @@
 // steps to use firebase
 /* 
 1.create a project on console.google.firebase
-2.install firebase
+2.npm install firebase
 3.register webpage in firebase
 4.copy firebase init with config from firebase project settings
 5.export default app
